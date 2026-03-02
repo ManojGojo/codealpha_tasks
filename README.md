@@ -40,7 +40,7 @@ StudentGradeGUI class → Manages GUI and user interactions
 
  * How to Run *
 1. Clone the Repository
-git clone https://github.com/your-username/student-grade-management.git
+git clone https://github.com/ManojGojo/student-grade-management.git
 2. Compile the Program
 javac StudentGradeGUI.java
    3. Run the Program
