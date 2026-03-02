@@ -104,3 +104,79 @@ Project report documentation (for submission)
 A professional project description for LinkedIn
 
 Tell me where you're planning to publish it (GitHub only or portfolio too), and I’ll tailor it properly.
+
+PROJECT NUMBER - 2
+
+# Stock Trading Simulation (Java)
+
+A basic stock trading environment developed in Java using Object-Oriented Programming principles.
+The application simulates stock market price changes, allows users to perform buy and sell operations, and tracks portfolio performance over time.
+
+# Features
+Market Simulation
+
+Simulates dynamic stock price fluctuations each time the menu refreshes.
+
+Buy and Sell Operations
+
+Users can purchase and sell stocks based on available balance and holdings.
+
+Portfolio Management
+
+Tracks account balance, stock holdings, and calculates total portfolio value.
+
+Transaction History
+
+Maintains a record of all buy and sell operations.
+
+Data Persistence
+
+Supports saving portfolio data using file serialization.
+
+# Technologies Used
+Java
+
+Core language implementation.
+
+OOP Concepts
+
+Encapsulation, class structure, modular design.
+
+Java Collections
+
+HashMap for holdings and ArrayList for transactions.
+
+File I/O
+
+Object serialization for saving portfolio data.
+
+Project Structure
+Single File Implementation
+
+StockTradingApp.java
+
+Includes the following classes within one file:
+
+# Stock
+Transaction
+Portfolio
+Market
+Main Application Controller
+
+# How to Run
+Compile
+javac StockTradingApp.java
+Execute
+java StockTradingApp
+Learning Outcomes
+Object-Oriented Design
+
+# Structured separation of responsibilities within a single file.
+
+Portfolio Performance Tracking
+
+Calculation of total asset value and balance.
+
+Market Simulation Logic
+
+Randomized stock price updates.
